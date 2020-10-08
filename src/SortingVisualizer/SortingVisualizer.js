@@ -3,6 +3,7 @@ import { GetMergeSortAnimations } from "../sortingAlgorithms/MergeSort.js";
 import { GetQuickSortAnimations } from "../sortingAlgorithms/QuickSort.js";
 import { GetBubbleSortAnimations } from "../sortingAlgorithms/BubbleSort.js";
 import { GetHeapSortAnimations } from "../sortingAlgorithms/HeapSort.js";
+import "./Header.css"
 import "./SortingVisualizer.css";
 
 // 可以通过修改这个数字来改变动画的快慢。
