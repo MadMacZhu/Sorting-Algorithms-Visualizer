@@ -2,6 +2,8 @@
 
 本项目的灵感主要来自于：1. 在校时曾经学过的数据结构与算法课程；2. 出现在2014年的一篇很有影响力的文章《[算法的视觉化](https://bost.ocks.org/mike/algorithms/)》。这个网页应用的后端架构是用JavaScript完成的，主要使用了（高维）序列这个数据结构实现了4种常用的排序算法：归并排序、快速排序、冒泡排序、堆排序。前端布局是建立在[Bootstrap](https://getbootstrap.com/)的模板之上，当然也外加了不少自己编写的HTML5和CSS3的语句，如实现序列种元素的蓝色条形柱是用CSS3编写的。
 
+**`应用网址`**：https://madmaczhu.github.io/Sorting-Algorithms-Visualizer/
+
 ## 算法简介
 
 **`归并排序`**（Merge Sort）：时间复杂度O(nlogn), 具体介绍见[这里](https://www.cnblogs.com/DSNFZ/articles/7745785.html)。
