@@ -13,3 +13,11 @@
 **`冒泡排序`**（Bubble Sort）: 最好时间复杂度O(n), 但平均时间复杂度O(n^2), 是相对较慢的一个算法，具体介绍见[这里](https://my.oschina.net/u/2312175/blog/668283)。
 
 **`堆排序`** （Heap Sort）：时间复杂度O(nlogn), 具体介绍见[这里](https://blog.csdn.net/xiajun07061225/article/details/7602979)。
+
+## 操作方法：
+
+**步骤1**：点击下拉菜单选取数组中数字的数目。
+
+**步骤2**：点击“Generate New Array”生词数组对应的横柱。
+
+**步骤3**： 点击要实现视觉化的算法。
